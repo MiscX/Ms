@@ -10,7 +10,7 @@ namespace Ms.Entity
         /// <summary>
         /// ID
         /// </summary>
-        public int ID { get; }
+        public int ID { get; set; }
         /// <summary>
         /// User identity
         /// </summary>

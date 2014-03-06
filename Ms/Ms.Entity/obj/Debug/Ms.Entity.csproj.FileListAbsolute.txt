@@ -1,0 +1,5 @@
+C:\Users\Misc\Documents\GitHub\Ms\Ms\Ms.Entity\bin\Debug\Ms.Entity.dll
+C:\Users\Misc\Documents\GitHub\Ms\Ms\Ms.Entity\bin\Debug\Ms.Entity.pdb
+C:\Users\Misc\Documents\GitHub\Ms\Ms\Ms.Entity\obj\Debug\Ms.Entity.dll
+C:\Users\Misc\Documents\GitHub\Ms\Ms\Ms.Entity\obj\Debug\Ms.Entity.pdb
+C:\Users\Misc\Documents\GitHub\Ms\Ms\Ms.Entity\obj\Debug\Ms.Entity.csprojResolveAssemblyReference.cache
